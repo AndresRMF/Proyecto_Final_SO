@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fBW1bMAM7g7aJ9bpiVQZev3WjeSTUfT8XXKOmf84+vSxY+GsBoiuPtXGSw2Ts8eYe4eCcX20dGisP3c6EwFoCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jacob\\OneDrive\\Documents\\C#\\Projects\\SimFinalOP\\SimFinalOP\\SimFinalOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jacob\\.nuget\\packages\\winforms.datavisualization\\1.9.1\\winforms.datavisualization.1.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}
